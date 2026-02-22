@@ -20,7 +20,7 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/AllyWalk/join-our-newsletter]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: [https://allywalk.github.io/join-our-newsletter/]
 ---
 
 ## 📝 Reflexión
